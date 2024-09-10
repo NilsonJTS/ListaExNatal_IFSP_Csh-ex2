@@ -1,0 +1,14 @@
+I:\C#_IFSP\ex2\bin\Debug\net8.0\ex2.exe
+I:\C#_IFSP\ex2\bin\Debug\net8.0\ex2.deps.json
+I:\C#_IFSP\ex2\bin\Debug\net8.0\ex2.runtimeconfig.json
+I:\C#_IFSP\ex2\bin\Debug\net8.0\ex2.dll
+I:\C#_IFSP\ex2\bin\Debug\net8.0\ex2.pdb
+I:\C#_IFSP\ex2\obj\Debug\net8.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#_IFSP\ex2\obj\Debug\net8.0\ex2.AssemblyInfoInputs.cache
+I:\C#_IFSP\ex2\obj\Debug\net8.0\ex2.AssemblyInfo.cs
+I:\C#_IFSP\ex2\obj\Debug\net8.0\ex2.csproj.CoreCompileInputs.cache
+I:\C#_IFSP\ex2\obj\Debug\net8.0\ex2.dll
+I:\C#_IFSP\ex2\obj\Debug\net8.0\refint\ex2.dll
+I:\C#_IFSP\ex2\obj\Debug\net8.0\ex2.pdb
+I:\C#_IFSP\ex2\obj\Debug\net8.0\ex2.genruntimeconfig.cache
+I:\C#_IFSP\ex2\obj\Debug\net8.0\ref\ex2.dll
